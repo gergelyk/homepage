@@ -1,0 +1,26 @@
+site_name: Grzegorz Krasoń
+#theme: ivory
+#theme: material
+#theme: slate # from bootswatch
+#theme: spacelab # from bootswatch
+#theme: united # from bootswatch
+#theme: yeti # from bootswatch
+
+theme:
+  name: material
+  favicon: images/home_black_18dp.png
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  logo:
+    # https://squidfunk.github.io/mkdocs-material/getting-started/
+    # https://material.io/resources/icons/
+    icon: 'home'
+    #icon: '☘'
+    #icon: 'free_breakfast'
+
+nav:
+    - About Me: index.md
+    - Projects: projects.md
+    - PGP Key: pgp.md
+    - Contact: contact.md
