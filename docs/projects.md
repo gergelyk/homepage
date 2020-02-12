@@ -6,7 +6,7 @@ Some of my open-source projecs can be found in [GitHub](http://github.com/gergel
 
 ## [kickoff](https://github.com/gergelyk/python-kickoff)
 
-Tags: `Python` `Development`
+**Tags**: `Python` `Development`
 
 Turns your Python script or module into an application with decent CLI.
 
@@ -16,7 +16,7 @@ Turns your Python script or module into an application with decent CLI.
 
 ## [peepshow](https://github.com/gergelyk/peepshow)
 
-Tags: `Python` `Development`
+**Tags**: `Python` `Development`
 
 Debugging utility for Python. Provides an interactive shell where you can browse data structures of your application.
 
@@ -26,7 +26,7 @@ Debugging utility for Python. Provides an interactive shell where you can browse
 
 ## [bkp](https://github.com/gergelyk/bkp)
 
-Tags: `Python` `Linux`
+**Tags**: `Python` `Linux`
 
 Simple but handy utility that can backup your files/directories and restore them later.
 
@@ -36,9 +36,7 @@ Simple but handy utility that can backup your files/directories and restore them
 
 ## [repoeditor](https://github.com/gergelyk/repoeditor)
 
-Tags: `Python` `Windows`
-
-*Not maintained*
+**Tags**: `Python` `Windows` | **Status**: Not maintained
 
 Editor of small and medium size repositories for [Npackd](https://npackd.appspot.com/) package manager.
 
@@ -46,7 +44,7 @@ Editor of small and medium size repositories for [Npackd](https://npackd.appspot
 
 ## [git-rsync](https://github.com/gergelyk/git-rsync)
 
-Tags: `Nimrod` `git`
+**Tags**: `Nimrod` `git`
 
 Free solution for adding large file support to your git repository.
 
