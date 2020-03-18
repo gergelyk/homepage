@@ -6,6 +6,8 @@ site_name: Grzegorz Krasoń
 #theme: united # from bootswatch
 #theme: yeti # from bootswatch
 
+copyright: 'Copyright &copy; Grzegorz Krasoń'
+
 theme:
   name: material
   favicon: images/home_black_18dp.png
@@ -18,6 +20,27 @@ theme:
     icon: 'home'
     #icon: '☘'
     #icon: 'free_breakfast'
+  include_search_page: false
+  search_index_only: true
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/javascripts/asciinema-player.css
+
+extra_javascript:
+  - assets/javascripts/asciinema-player.js
+
+extra:
+  social:
+    - type: github
+      link: https://github.com/gergelyk
+    - type: linkedin
+      link: https://www.linkedin.com/in/grzegorzkrason/
+    - type: envelope-o
+      link: mailto:grzegorz.krason@gmail.com
 
 nav:
     - About Me: index.md

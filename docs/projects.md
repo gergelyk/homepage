@@ -4,7 +4,17 @@ Some of my open-source projecs can be found in [GitHub](http://github.com/gergel
 
 -----
 
-## [kickoff](https://github.com/gergelyk/python-kickoff)
+## [digitout](https://gergelyk.github.io/python-digitout/)
+
+**Tags**: `Python` `Development`
+
+Seek data structures of your Python application.
+
+<asciinema-player autoplay=true preload=true speed=2 font-size=9px src="https://raw.githubusercontent.com/gergelyk/python-digitout/master/docs/assets/demo.cast"></asciinema-player>
+
+-----
+
+## [kickoff](https://python-kickoff.readthedocs.io/en/latest/)
 
 **Tags**: `Python` `Development`
 

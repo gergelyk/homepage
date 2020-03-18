@@ -10,4 +10,4 @@ You can also import it from [http://pgp.mit.edu](http://pgp.mit.edu/pks/lookup?s
 gpg --keyserver pgp.mit.edu --recv-keys B6F27F60
 ```
 
-Alternatively you can download it [here](resources/B6F27F60.asc).
+Alternatively you can download it [here](assets/B6F27F60.asc).
