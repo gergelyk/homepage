@@ -10,7 +10,7 @@ Some of my open-source projecs can be found in [GitHub](http://github.com/gergel
 
 Seek data structures of your Python application.
 
-<asciinema-player autoplay=true preload=true speed=2 font-size=9px src="https://raw.githubusercontent.com/gergelyk/python-digitout/master/docs/assets/demo.cast"></asciinema-player>
+<asciinema-player autoplay=true loop=true preload=true speed=2 font-size=9px src="https://raw.githubusercontent.com/gergelyk/python-digitout/master/docs/assets/demo.cast"></asciinema-player>
 
 -----
 
