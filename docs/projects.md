@@ -24,7 +24,7 @@ Turns your Python script or module into an application with decent CLI.
 
 -----
 
-## [peepshow](https://github.com/gergelyk/peepshow)
+## [peepshow](https://gergelyk.github.io/peepshow/)
 
 **Tags**: `Python` `Development`
 
