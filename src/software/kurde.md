@@ -1,5 +1,10 @@
 # kurde
 
+<p align="right">
+<a href="https://github.com/gergelyk/python-kurde"><img src="/assets/github.svg"/></a>
+<a href="https://hub.docker.com/r/gergelyk/kurde"><img src="/assets/docker.svg"/></a>
+</p>
+
 Simple configuration language, based on Python.
 
 ## Features
@@ -70,6 +75,7 @@ network.remotes['localhost'] = '127.0.0.1'
 ```
 
 Renders as:
+
 ```json
 {
   "theme": {
@@ -106,3 +112,7 @@ Renders as:
 ## Disclaimer
 
 Kurde doesn't do any sandboxing. Invoke the scripts only if you absolutely trust them. You are doing it on your own responsibility.
+
+## More Details
+
+More details can be found in the [README](https://github.com/gergelyk/python-kurde/blob/master/README.md) file.

@@ -14,3 +14,5 @@ Simple utility that makes backups of your files/directories.
 * Work with separate files or entire directories.
 * Creates simple copy or TAR archive.
 * Optionally append metadata: author, creation time, commit message (applies only to TAR archives).
+
+More in the [README](https://github.com/gergelyk/bkp/blob/master/README.md) file.
