@@ -6,8 +6,11 @@ Older/smaller projects of mine can be found in [github](https://github.com/gerge
 |---|---|
 | [elvish-libs](https://github.com/gergelyk/elvish-libs) | Libraries for [elvish](elv.sh). Include Python utils. |
 | [python-stdcpp](https://github.com/gergelyk/python-stdcpp) | Use cout & cerr streams like in C++. |
-| [linux-utils](https://github.com/gergelyk/linux-utils/tree/master) | Miscellaneous linux utilities. |
-| [python-utils](https://github.com/gergelyk/pymiscutils/tree/master/miscutils) | Miscellaneous python utilities. |
+| [linux-utils](https://github.com/gergelyk/linux-utils) | Miscellaneous linux utilities. |
+| [ttype](https://github.com/gergelyk/ttype) | echo/cat that prints using virtual keyboard. |
+| [quickcmd](https://github.com/gergelyk/quickcmd) | Define a list of commands and execute them when needed. |
+| [python-utils](https://github.com/gergelyk/pymiscutils) | Miscellaneous python utilities. |
+| [frss](https://github.com/gergelyk/frss) | Lightweight RSS Reader. |
 | [pforum](https://github.com/gergelyk/pforum) |  Completely unsecure implementation of a really simple forum. |
 | [turing.py](https://github.com/gergelyk/turing.py) | Simulator of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine). |
 
