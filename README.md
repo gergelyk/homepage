@@ -1,5 +1,9 @@
 # homepage
 
+My personal homepage.
+
+## Development
+
 Preparing environment:
 
 ```sh
