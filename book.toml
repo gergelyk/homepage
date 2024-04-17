@@ -8,7 +8,7 @@ src = "src"
 [output.html]
 no-section-label = true
 default-theme = "rust"
-preferred-dark-theme = "navy"
+preferred-dark-theme = "rust"
 
 [output.html.search]
 enable = false
