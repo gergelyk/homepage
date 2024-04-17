@@ -1,4 +1,4 @@
-# Projects
+# Software
 
 This is a place where I store my hobby projects. Most of them are finished and fully usable. I hope you will find them useful or inspirational.
 
