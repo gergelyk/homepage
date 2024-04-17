@@ -1,7 +1,7 @@
 # Summary
 
 - [About me](./about.md)
-<!-- - [Photography](./photography.md) -->
+- [Photography](./photography.md)
 - [Publications](./publications.md)
 - [Software](./software.md)
   - [plany](./software/plany.md)
