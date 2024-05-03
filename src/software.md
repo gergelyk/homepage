@@ -15,5 +15,3 @@ Because I work on these projects in my free time, do not expect a production-gra
 <img src="/assets/star.svg" style="float: left; margin-right: 20px;"/> In case you like any of the projects, I will appreciate if you give a star next to it in [github](https://github.com/gergelyk).
 
 <img src="/assets/email.svg" style="float: left; margin-right: 20px;"/> My contact details can be found [here](./about.md).
-
-<img src="/assets/dollars.svg" style="float: left; margin-right: 20px;"/> If you feel like you would like to donate, the link [here](https://revolut.me/grzego3pu).
