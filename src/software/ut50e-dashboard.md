@@ -1,5 +1,9 @@
 # UT60E Dashboard
 
+<p align="right">
+<a href="https://github.com/gergelyk/ut50e-dashboard"><img src="/assets/github.svg"/></a>
+</p>
+
 This project is a quick yet practical PoC that verifies usability of [crystal](https://crystal-lang.org/) on aarch64 platform. It is an implementation of a driver that reads measurements from Uni-T UT60E multimeter and stores it in a [time series database](https://en.wikipedia.org/wiki/Time_series_database) from where they can be obtained for further processing or visualization.
 
 ![](https://raw.githubusercontent.com/gergelyk/ut50e-dashboard/master/docs/hardware.jpg)
@@ -35,3 +39,7 @@ For the purpose of this project following hardware has been used:
 - Raspberry Pi 3 Model B+
 - Uni-T UT60E with original RS232 cable
 - RS232-to-USB converter
+
+## More Details
+
+[Here...](https://github.com/gergelyk/ut50e-dashboard)

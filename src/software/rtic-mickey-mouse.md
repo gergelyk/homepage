@@ -84,3 +84,7 @@ User btton "Key" of the device can be used to enable/disable reception. This is 
 - USB descriptor has been generated using [USB Descriptor and Request Parser](https://eleccelerator.com/usbdescreqparser/).
 
 - Free PIDs/VIDs have been found [here](https://github.com/obdev/v-usb/blob/master/usbdrv/USB-IDs-for-free.txt).
+
+## More Details
+
+[Here...](https://github.com/gergelyk/rtic-mickey-mouse)
