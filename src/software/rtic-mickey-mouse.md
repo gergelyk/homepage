@@ -18,7 +18,7 @@ Remote control as a Mouse & Keyboard.
 
 ## Usage
 
-<a href="https://p-lux2.pcloud.com/cBZrLisNAZiAHX3L7ZZZANmpkkZQ5ZZBiRZkZsx6lZIpZ35ZS4Zc4ZB4Zl8ZtJZ0JZlpZQzZpQZM4ZYLZyRZnOW10ZsNmhJbgOweH8DBSvhDIsbSMjB7g7/perma-rtic-mickey-mouse.mp4">
+<a href="https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/perma-rtic-mickey-mouse.mp4">
 <img src="https://raw.githubusercontent.com/gergelyk/rtic-mickey-mouse/master/docs/video.png">
 </a>
 
