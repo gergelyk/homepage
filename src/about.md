@@ -1,5 +1,7 @@
 # Hi there!
 
+<script data-goatcounter="https://krason-dev.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
 <img src="/assets/myface.jpeg" style="border-radius: 50%; width: 10%; height: auto; float: left; margin-right: 20px; margin-bottom: 100px;">
 
 My name is Greg and I work as a Software Engineer.
