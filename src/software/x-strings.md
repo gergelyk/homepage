@@ -1,7 +1,7 @@
-# bkp
+# x-strings
 
 <p align="right">
-<a href="https://github.com/gergelyk/x-strings"><img src="/assets/github.svg"/></a>
+<a href="https://github.com/gergelyk/xstrings"><img src="/assets/github.svg"/></a>
 <a href="https://pypi.python.org/pypi/x-strings"><img src="/assets/package.svg"/></a>
 </p>
 
