@@ -8,5 +8,4 @@ In my free time I either work on the hobby [projects](software.md) or I enjoy ou
 
 When I'm in the mood, I find pleasure in taking [pictures](photography.md).
 
-You can contact me through: [LinkedIn](https://linkedin.com/in/grzegorzkrason) | [github](https://github.com/gergelyk) | [e-mail](mailto:grzegorz.krason@gmail.com) | [matrix](https://matrix.to/#/@gergelyk:matrix.org)
-
+You can contact me through: [LinkedIn](https://linkedin.com/in/grzegorzkrason) | [github](https://github.com/gergelyk) | [e-mail](mailto:grzegorz.krason@gmail.com)
