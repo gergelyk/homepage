@@ -1,4 +1,4 @@
-# Weather Data Provider
+# Weather Data Aggregator
 
 <p align="right">
 <a href="https://github.com/gergelyk/weather-data-provider"><img src="/assets/github.svg"/></a>
