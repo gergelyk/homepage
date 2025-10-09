@@ -6,7 +6,7 @@
 - [Software](./software.md)
   - [Web](./web.md)
     - [saml-mock](./software/saml-mock.md)
-    - [weather-data-aggregator](./software/weather-data.md)
+    - [weather-data](./software/weather-data.md)
   - [Embedded](./embedded.md)
     - [mpy-temp-humi](./software/mpy-temp-humi.md)
     - [ut50e-dashboard](./software/ut50e-dashboard.md)
