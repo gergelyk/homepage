@@ -5,7 +5,7 @@
 <a href="https://pypi.org/project/galgen/"><img src="/assets/package.svg"/></a>
 </p>
 
-Simple gallery generator.
+Simple gallery generator. Powered by [galleriajs](https://galleriajs.github.io/)
 
 ![](https://raw.githubusercontent.com/gergelyk/galgen/master/example/result.png)
 
