@@ -22,6 +22,8 @@ Prototype of a clock combined with meteo station.
 
 ## System Overview
 
+![](https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/img/system.svg)
+
 Project consists of two parts:
 
 1. Embedded
@@ -33,8 +35,6 @@ Project consists of two parts:
   - Frontend, build in Leptos
   - Backend, built on top of Spin Framework
   - Deployed to the Fermion Cloud
-
-![](https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/img/system.svg)
 
 ## Hardware Overview
 
