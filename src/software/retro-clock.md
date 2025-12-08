@@ -20,7 +20,7 @@ Prototype of a clock combined with meteo station.
 - Failure Resistance
 - Data Safety
 
-## Implementation
+## System Overview
 
 Project consists of two parts:
 
@@ -34,8 +34,18 @@ Project consists of two parts:
   - Backend, built on top of Spin Framework
   - Deployed to the Fermion Cloud
 
+![](https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/img/system.svg)
+
+## Hardware Overview
+
+![](https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/img/hardware.svg)
+
+## Software Overview
+
+![](https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/img/threads.svg)
+
 ## More Details
 
 - [Repository](https://github.com/gergelyk/retro-clock)
 - [Presentation](https://www.youtube.com/watch?v=yR7irQRpGIg)
-- [Slides] (https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/index.html)
+- [Slides](https://filedn.com/ls8U70bX0lASS65WlPE8h3j/PERMALINKS/retro-clock-slides/index.html)
