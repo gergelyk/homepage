@@ -3,6 +3,7 @@
 This is a place where I store my hobby projects. Most of them are finished and fully usable. I hope you will find them useful or inspirational.
 
 Most of the projects are implemented in Python or its flavors. You can however also find some 
+[Rust](software/retro-clock.md),
 [Crystal](software/plany.md),
 [Nim](software/git-rsync.md),
 [vlang](software/scar.md),
