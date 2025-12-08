@@ -11,6 +11,7 @@
     - [mpy-temp-humi](./software/mpy-temp-humi.md)
     - [ut50e-dashboard](./software/ut50e-dashboard.md)
     - [rtic-mickey-mouse](./software/rtic-mickey-mouse.md)
+    - [retro-clock](./software/retro-clock.md)
   - [Terminal](./terminal.md)
     - [plany](./software/plany.md)
     - [para-cada](./software/para-cada.md)
