@@ -1,3 +1,3 @@
 # Embedded
 
-<meta http-equiv="refresh" content="0; url=/software/mpy-temp-humi.html" />
+<meta http-equiv="refresh" content="0; url=/software/retro-clock.html" />
